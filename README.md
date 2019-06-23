@@ -3,7 +3,7 @@
 Wires generic metrics into mailer
 
 [![build status](https://secure.travis-ci.org/clocklimited/cf-measured-mailer.svg)](http://travis-ci.org/clocklimited/cf-measured-mailer)
-[![dependency status](https://david-dm.org/clocklimited/cf-measured-mailer.svg)](https://david-dm.org/clocklimited/cf-measured-mailer)
+[![dependency status](https://david-dm.org/clocklimited/cf-measured-mailer.svg)](https://david-dm.org/clocklimited/cf-measured-mailer) [![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/cf-measured-mailer.svg)](https://greenkeeper.io/)
 
 ## Installation
 
